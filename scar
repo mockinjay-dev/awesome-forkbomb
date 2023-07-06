@@ -1,0 +1,9 @@
+label
+  D;
+ 
+begin
+  D:      // 1
+  WriteLn(Same effect as a repeat loop..);
+  goto D; // 2
+end.
+
