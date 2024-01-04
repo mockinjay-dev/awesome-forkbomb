@@ -8,4 +8,4 @@ Fork bombs are often used as a form of denial-of-service attack or as a means to
 It's important to note that the creation and execution of fork bombs are typically considered malicious activities. Engaging in such activities without proper authorization is illegal and unethical. Fork bombs should not be used for any legitimate purpose, and it's crucial to exercise responsible and lawful use of technology.
 
 Checkout this blog post for more information and prevention technique.
-https://securio.hashnode.dev/11-characters-and-boom
+https://securioo.medium.com/11-characters-and-boom-5f1cd2b1645f
